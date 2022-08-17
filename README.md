@@ -1,8 +1,8 @@
 <img src="Images/Enuar.jpg" alt='banner'></img>
 
-<br/>
+</br>
 
-Quien soy? 👀
+Quien soy? 👀 </br>
 🟣 Desarrollador Full Stack con orientación hacia el Front-End con capacidad de desarrollar proyectos Web, con muchas ganas de aprender siempre tecnologías nuevas para implementar, tratando siempre de realizar un trabajo limpio, para poder aportar a un equipo de trabajo !!
 
 Quieres saber mas de mi?😎
