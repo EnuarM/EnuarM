@@ -1,4 +1,4 @@
-<img src="images/Enuar Montaña.jpg" alt='banner'></img>
+<img src="images/Enuar.jpg" alt='banner'></img>
 
 <!--
 **EnuarM/EnuarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
