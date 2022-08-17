@@ -5,10 +5,10 @@
 Quien soy? 👀 </br>
 🟣 Desarrollador Full Stack con orientación hacia el Front-End con capacidad de desarrollar proyectos Web, con muchas ganas de aprender siempre tecnologías nuevas para implementar, tratando siempre de realizar un trabajo limpio, para poder aportar a un equipo de trabajo !!
 
-Quieres saber mas de mi?😎
-WP: +57 3103051376
-Email: enurdoloco@hotmail.com
-LinkedIn: https://www.linkedin.com/in/enuarmontaña/
+Quieres saber mas de mi?😎</br>
+WP: +57 3103051376</br>
+Email: enurdoloco@hotmail.com</br>
+LinkedIn: https://www.linkedin.com/in/enuarmontaña/</br>
 
 ## 💼 Tecnologias
 <p>
